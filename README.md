@@ -1,10 +1,12 @@
-# Course Title: Geographical Information System (GIS) (3 Cr.)
+# Geographical Information System [CACS454]
 
-Course Code: CACS454
+Course Title: **Geographical Information System (GIS)** (3 Cr.)
 
-Year/Semester: IV/VIII
+Course Code: **CACS454**
 
-Class Load: 5 Hrs./ Week (Theory: 3Hrs. Practical: 2 Hrs.)
+Year/Semester: **IV/VIII**
+
+Class Load: **5 Hrs./ Week (Theory: 3Hrs. Practical: 2 Hrs.)**
 
 ## Course Description
 
