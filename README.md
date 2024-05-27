@@ -86,7 +86,7 @@ The teaching faculties are expected to create environment where students can upd
 ## Reference Books
 1. Kang-tsung Chang, (2019). "Introduction to Geographic Information Systems" McGraw-Hill [Read Here](https://archive.org/details/kang-tsung-chang-introduction-to-geographic-information-systems-2019-mc-graw-hill-libgen.lc)
 2. C.P.Lo and Albert K.W.Yeung (2006)"Concepts and Techniques of Geographic
-Information Systems" Prentice Hall of India, New Delhi [Burrow Here](https://archive.org/details/conceptstechniqu0002locp)
-3. Albert, C.T.L. and Yeung, K.V/. (2002). "Concepts and Techniques of Geographical Information Systems", Prentice Hall [Burrow Here](https://archive.org/details/conceptstechniqu0000locp)
+Information Systems" Prentice Hall of India, New Delhi [Borrow Here](https://archive.org/details/conceptstechniqu0002locp)
+3. Albert, C.T.L. and Yeung, K.V/. (2002). "Concepts and Techniques of Geographical Information Systems", Prentice Hall [Borrow Here](https://archive.org/details/conceptstechniqu0000locp)
 4. Chakraborty, D. and Sahoo, R.N. (2007) "Fundamentals of GIS". India: Viva Books. [Buy Here](https://www.vivabooksindia.com/book/fundamentals-of-geographic-information-system)
-5. ESRI guide to GIS analysis Andy Mitchell, ESRI press, Red lands [Burrow From](https://archive.org/details/esriguidetogisan0000andy)
+5. ESRI guide to GIS analysis Andy Mitchell, ESRI press, Red lands [Borrow From](https://archive.org/details/esriguidetogisan0000andy)
