@@ -20,11 +20,11 @@ The general objectives of this course are to provide theoretical knowledge as we
 
 ### Unit 1: Introduction
 
-- Definition, functions and Applications of GIS
-- Components of GIS
-- GIS as Information System
-- Nature & Sources of GIS data
-- Recent trends and future of GIS
+- [Definition, functions and Applications of GIS](./Unit-01-Introduction.md#definition-functions-and-applications-of-gis)
+- [Components of GIS](./Unit-01-Introduction.md#components-of-gis)
+- [GIS as Information System](./Unit-01-Introduction.md#gis-as-information-system)
+- [Nature & Sources of GIS Data](./Unit-01-Introduction.md#nature-and-sources-of-gis-data)
+- [Recent trends and future of GIS](./Unit-01-Introduction.md#recent-trends-and-future-of-gis)
 
 ### Unit 2: GIS and Map
 
